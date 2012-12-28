@@ -1767,7 +1767,7 @@
     <string name="vpn_routes" msgid="3818655448226312232">"Átirányítási útvonalak (pl. 10.0.0.0/8)"</string>
     <string name="vpn_username" msgid="1863901629860867849">"Felhasználónév"</string>
     <string name="vpn_password" msgid="6756043647233596772">"Jelszó"</string>
-    <string name="vpn_save_login" msgid="6350322456427484881">"Számlainformáció mentése"</string>
+    <string name="vpn_save_login" msgid="6350322456427484881">"Fiókadatok mentése"</string>
     <string name="vpn_not_used" msgid="9094191054524660891">"(nem használják)"</string>
     <string name="vpn_no_ca_cert" msgid="2095005387500126113">"(ne ellenőrizze a szervereket)"</string>
     <string name="vpn_no_server_cert" msgid="2167487440231913330">"(szervertől fogadva)"</string>
