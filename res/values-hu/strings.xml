@@ -1333,7 +1333,7 @@
     <string name="usage_type_data_recv" msgid="7251090882025234185">"Fogadott adatok"</string>
     <string name="usage_type_audio" msgid="6957269406840886290">"Hang"</string>
     <string name="usage_type_video" msgid="4295357792078579944">"Videó"</string>
-    <string name="usage_type_on_time" msgid="3351200096173733159">"Bekapcsolva eltöltött idő"</string>
+    <string name="usage_type_on_time" msgid="3351200096173733159">"Használati idő"</string>
     <string name="usage_type_no_coverage" msgid="3797004252954385053">"Jel nélkül eltelt idő"</string>
     <string name="battery_action_stop" msgid="649958863744041872">"Kényszerített leállítás"</string>
     <string name="battery_action_app_details" msgid="7861051816778419018">"Alkalmazásinformáció"</string>
